@@ -7,7 +7,8 @@
 I'm a passionate backend developer specializing in .NET technologies, currently contributing to the Уникон project. I thrive on building efficient, scalable solutions with clean architecture and robust performance.
 
 ```csharp
-public class Developer {
+public class Developer
+{
     public string Name = "Konstantin";
     public string Focus = "Backend Development";
     public string[] Passions = ["Clean Code", "System Design", "Performance Optimization"];
@@ -24,11 +25,13 @@ public class Developer {
 </div>
 
 ### 🌐 Web & Backend
-<div> 
-<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" alt=".NET"> 
-<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" alt="ASP.NET Core"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"> 
-<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP">
+<div>
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" alt=".NET">
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" alt="ASP.NET Core">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP">
 </div>
 
 ### 🗃 Databases
