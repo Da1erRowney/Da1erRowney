@@ -1,5 +1,5 @@
 # Konstantin 
-### Backend Developer (.NET Specialist)
+### Backend Developer
 
 <img src="https://writedrunkeditdrunk.com/wp-content/uploads/2019/10/end-of-evangelion-banner.jpg" alt="Backend Developer Banner" width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
