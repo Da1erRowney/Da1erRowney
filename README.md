@@ -37,6 +37,7 @@ public class Developer
 
 ### 🗃 Databases and technology's
 <div> 
+<img src="https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white&style=for-the-badge" alt="SQL"> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL"> 
 <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" alt="SQLite"> 
 <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" alt="Entity Framework">
